@@ -1,0 +1,111 @@
+body {
+    border-color: grey;
+    border-style: solid;
+    border-width: 25px;
+    margin: 0;
+    padding: 0;
+    height: 93vh;
+    margin-inline: 400px;
+}
+
+header {
+    position: relative;
+    border-bottom: solid;
+    margin-top: -25px;
+}
+
+.titre2 {
+    text-align: center;
+    margin-top: -50px;
+}
+
+img {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+
+.main {
+    float: left;
+    width: 48%;
+    padding: 10px;
+    height: 665px;
+    text-align: justify;
+    margin-top: -27px;
+}
+
+.second {
+    float: right;
+    width: 48%;
+    padding: 10px;
+    height: 644px;
+    border-left: solid 2px;
+    border-bottom: solid 2px;
+    text-align: justify;
+}
+
+.coord {
+    margin-top: -69px;
+}
+
+.langues {
+    margin-top: -55px;
+}
+
+.savoir {
+    margin-top: -50px;
+}
+
+.comp {
+    margin-top: -10px;
+} 
+
+.parcours {
+    text-align: justify;
+    margin-top: -70px;
+}
+
+.intérêts {
+    margin-top: -10px;
+}
+
+.dates {
+    text-align: center;
+}
+.title {
+    text-align: center;
+}
+#icon {
+    top: 128px;
+    left: 600px;
+}
+#icon2 {
+    position: relative;
+    top: 60px;
+    left: 0;
+}
+
+#icon3 {
+    position: relative;
+    top: 60px;
+    left: 0;
+}
+
+#icon4 {
+    position: relative;
+    top: 55px;
+    left: 0;
+}
+
+#icon5 {
+    position: relative;
+    top: 55px;
+    left: 350px;
+}
+
+#icon6 {
+    position: relative;
+    top: 60px;
+    left: 350px; 
+}
